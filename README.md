@@ -1,10 +1,17 @@
 # Mary Hardy – Developer Portfolio
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 A personal portfolio website built with **HTML5** and **CSS3** to showcase skills, experience, and projects. The site features a clean, modern layout suitable for personal branding and learning-focused web development.
 
 ---
+## 🚀 Live Demo
+https://yousuf-humran.github.io/hero-dev-portfolio/
 
-## 📸 Preview
+---
+
+## 📸 Photo Preview
 
 ![Portfolio Preview](portfolio.png)
 
